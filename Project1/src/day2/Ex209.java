@@ -12,5 +12,11 @@ public class Ex209 {
         System.out.println(num); // 8
         System.out.println(++num); // 9
         System.out.println(num); // 9
+
+        num = 5;
+        int num2 = num--;
+        System.out.println(num); // 4
+        System.out.println(--num2); // 4
+
     }
 }
