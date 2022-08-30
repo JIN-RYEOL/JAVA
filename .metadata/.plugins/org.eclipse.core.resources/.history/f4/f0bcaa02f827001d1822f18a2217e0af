@@ -1,0 +1,10 @@
+package day2; // 패키지 선언 : 지금 이 파일이 소속된 패키지 이름을 명
+
+public class Ex201 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

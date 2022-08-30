@@ -1,0 +1,19 @@
+
+// 글자크기 : [Ctrl] + [+/-]     -----------> "주석(Comment)"
+// 저장 : [Ctrl] + s
+// 실행 : [Ctrl] + [F11]
+
+// [정리] 주석을 작성하는 법 : //부터 그 문장 끝까지.
+
+public class Ex100 {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Hello World"); // "문자열"
+		System.out.println(123);
+		System.out.println(3.14);
+
+	} // main
+
+} // class Ex100

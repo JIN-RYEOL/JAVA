@@ -1,0 +1,14 @@
+
+// 글자크기 : [Ctrl] + [+/-]
+// 저장 : [Ctrl] + s
+
+public class Ex100 {
+
+	public static void main(String[] args) {
+		
+		//실행 : [Ctrl] + [F11]
+		System.out.println("Hello World");
+
+	} // main
+
+} // class Ex100
